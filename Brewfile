@@ -8,4 +8,4 @@ brew "xmp"
 brew "fish"
 
 # misc
-brew "fortune", args: ["--without-offensive"]
+brew "fortune", args: ["without-offensive"]
