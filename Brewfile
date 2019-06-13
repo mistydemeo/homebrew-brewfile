@@ -1,6 +1,6 @@
 # music
-brew "mdxmini", args: ["with-lib-only"]
-brew "pmdmini", args: ["with-lib-only"]
+brew "mdxmini"
+brew "pmdmini"
 brew "uade"
 brew "xmp"
 
@@ -8,4 +8,4 @@ brew "xmp"
 brew "fish"
 
 # misc
-brew "fortune", args: ["without-offensive"]
+brew "fortune"
